@@ -4,9 +4,8 @@
 
 ## Getting started
 
-To make it easy for you to get started with GitLab, here's a list of recommended next steps.
-
-Already a pro? Just edit this README.md and make it your own. Want to make it easy? [Use the template at the bottom](#editing-this-readme)!
+Botterfly is my own personal bot created with no limits and no filter, but also providing features such as a dashboard feature analytics.
+The bot was developed from pure boredom so the code should be fine for the most part.
 
 ## Add your files
 
